@@ -6,6 +6,8 @@
 
 This application allows creating/removing/updating/fetching TODO items. Each TODO item can optionally have an attachment. Each user only has access to TODO items that he/she has created.
 
+![Todo-app](images/React-App.png?raw=true)
+
 ### Tools used
 - AWS Lambda
 - AWS API Gateway
